@@ -7,8 +7,9 @@ For a knockback level 2 stick you need to craft this:(you only neat 1 rabbits fo
 
 For a knockback level 4 stick you need to craft this:
 
-![image](https://user-images.githubusercontent.com/60816194/115959141-f09cdc80-a50a-11eb-9770-167c0da66715.png)
+![image](https://user-images.githubusercontent.com/60816194/115967866-4b4b2e00-a535-11eb-8104-2d15274341c9.png)
 
 For a knockback level 6 stick you need to craft this:
 
-![image](https://user-images.githubusercontent.com/60816194/115959168-2fcb2d80-a50b-11eb-84bc-f252a56cd459.png)
+![image](https://user-images.githubusercontent.com/60816194/115967851-353d6d80-a535-11eb-8c75-4d3691116277.png)
+
