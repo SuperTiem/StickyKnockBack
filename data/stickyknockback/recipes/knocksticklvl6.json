@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#G/",
+        "#GE",
         "BNM",
-        " E "
+        "D/ "
     ],
     "key": {
         "#": {
@@ -26,6 +26,9 @@
         },
         "E": {
             "item": "minecraft:enchanting_table"
+        },
+        "D":{
+            "item": "minecraft:dragon_head"
         }
     },
     "result": {
