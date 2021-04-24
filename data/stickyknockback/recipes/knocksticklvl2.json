@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
+        "P# ",
         "E#N",
         " / "
     ],
@@ -10,13 +10,16 @@
             "item": "minecraft:piston"
         },
         "E": {
-            "item": "minecraft:ender_eye"
+            "item": "minecraft:ender_stone"
         },
         "N": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:rabbit_foot"
         },
         "/": {
             "item": "minecraft:stick"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
         }
     },
     "result": {
