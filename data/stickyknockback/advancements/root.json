@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "All the knockback Sticks",
+        "description": "",
+        "icon": {
+            "item": "minecraft:stick"
+        },
+        "background": "minecraft:textures/block/gray_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
+

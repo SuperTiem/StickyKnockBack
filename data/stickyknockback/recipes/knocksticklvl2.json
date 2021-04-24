@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "E#N",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:piston"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "stikyknockback",
+    "icon": {
+      "item": "minecraft:stick"
+    },
+    "title": "Knockback be like: *awkard*",
+    "description": "Someone just made a knockback level 4 stick",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "stickyknockback:2knsticklvl2_adv",
+  "criteria": {
+    "onmogelijk": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

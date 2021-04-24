@@ -1,0 +1,20 @@
+{
+  "display": {
+    "title": "stikyknockback",
+    "icon": {
+      "item": "minecraft:stick"
+    },
+    "title": "What in knockback levitation?",
+    "description": "Someone made the most overpowered knockback stick known to man kind.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "stickyknockback:2knsticklvl4_adv",
+  "criteria": {
+    "onmogelijk": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

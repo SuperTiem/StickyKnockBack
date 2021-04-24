@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G/",
+        "BNM",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_sword"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "M": {
+            "item": "minecraft:magma_cream"
+        },
+        "E": {
+            "item": "minecraft:enchanting_table"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

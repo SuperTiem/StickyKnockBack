@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "stikyknockback",
+    "icon": {
+      "item": "minecraft:stick"
+    },
+    "title": "Who wants knockback?",
+    "description": "Someone just made a knockback stick",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "stickyknockback:root",
+  "criteria": {
+    "onmogelijk": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
