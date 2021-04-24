@@ -1,7 +1,7 @@
 # StickyKnockBack
 This is a minecraft datapack. In this datapack you can craft your own knockbacksticks.
 You can simpely clone these files and put the map in your minecraft save datapack folder.
-For a knockback level 2 stick you need to craft this:
+For a knockback level 2 stick you need to craft this:(you only neat 1 rabbits foot)
 
 ![Screenshot_20210424_143656](https://user-images.githubusercontent.com/60816194/115959056-9b60cb00-a50a-11eb-89ea-15d2a791e7db.png)
 
